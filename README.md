@@ -1,3 +1,4 @@
+# fork 防删
 # C++ 资源大全中文版
 
 我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-cpp](https://github.com/fffaraz/awesome-cpp) 就是 fffaraz 发起维护的 C++ 资源列表，内容包括：标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。
